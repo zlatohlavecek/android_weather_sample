@@ -1,1 +1,2 @@
-# android_weather_sample
+Udacity Android development course sample
+---
